@@ -1,0 +1,28 @@
+[
+  {
+    "name": "gsap-starter-template-nissan-300x600",
+    "size": "300x600",
+    "width": 300,
+    "height": 600,
+    "frameLimit": 3,
+    "frameMinCount": 1,
+    "globalTemplateName": "gsap-starter-template-nissan",
+    "start": ["start"],
+    "middle": ["middle"],
+    "end": ["end"],
+    "baseSize": 8000
+  },
+  {
+    "name": "gsap-starter-template-160x600",
+    "size": "160x600",
+    "width": 160,
+    "height": 600,
+    "frameLimit": 3,
+    "frameMinCount": 1,
+    "globalTemplateName": "gsap-starter-template-nissan",
+    "start": ["start"],
+    "middle": ["middle"],
+    "end": ["end"],
+    "baseSize": 8000
+  }
+]

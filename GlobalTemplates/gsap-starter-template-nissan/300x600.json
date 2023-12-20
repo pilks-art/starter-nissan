@@ -1,0 +1,59 @@
+{
+  "template": [
+    {
+      "t": "s",
+      "s": "/*** PLEASE DO NOT AMEND THIS NORMALISE CSS ***/ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:0;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}audio,video{display:inline-block}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,html [type='button'],[type='reset'],[type='submit']{-webkit-appearance:button}button::-moz-focus-inner,[type='button']::-moz-focus-inner,[type='reset']::-moz-focus-inner,[type='submit']::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type='button']:-moz-focusring,[type='reset']:-moz-focusring,[type='submit']:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto}[type='checkbox'],[type='radio']{box-sizing:border-box;padding:0}[type='number']::-webkit-inner-spin-button,[type='number']::-webkit-outer-spin-button{height:auto}[type='search']{-webkit-appearance:textfield;outline-offset:-2px}[type='search']::-webkit-search-cancel-button,[type='search']::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details,menu{display:block}summary{display:list-item}canvas{display:inline-block}template{display:none}[hidden]{display:none}.dynamicAdvertContainer{display:none;position:absolute;width:100%;height:100%;border:1px solid black;box-sizing:border-box;background:#EEE;overflow:hidden;line-height:1.15}:focus{outline:0}::-moz-focus-inner{border:0}"
+    },
+    {
+      "t": "s",
+      "s": ".dynamicAdvertContainer{cursor:pointer;line-height:1;width:300px;height:250px;}.template-set-frame{position:absolute; top:0px; left:0px; width:100%; height:100%;}.devGuide{width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:999;display:none;}.devGuide.dev{opacity:$devoveropacity !important;display:block !important;}"
+    },
+    {
+      "t": "j",
+      "s": "KGZ1bmN0aW9uICgpIHsKICBsZXQgZGFjID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmR5bmFtaWNBZHZlcnRDb250YWluZXInKTsKCiAgaWYgKGlzRGV2RW52KCkpIHsKICAgIGNvbnNvbGUubG9nKCdPbiBPcmNhJyk7CiAgICBhZGRDbGlja291dChkZXZDbGlja291dCk7CiAgICBhZGRHc2FwKCk7CiAgfSBlbHNlIHsKICAgIGFkZENsaWNrb3V0KGV4aXRDbGlja0hhbmRsZXIpOwogICAgLy8gZ3NhcCBzaG91bGQgYmUgYWRkZWQgaW4gc2hlbGwgaW4gbGl2ZSBlbnZpcm9ubWVudAogIH0KICBjaGVja0ZvckdzYXAoaW5pdEdsb2JhbEFuaW1hdGlvbnMpOwoKICBmdW5jdGlvbiBpc0RldkVudigpIHsKICAgIHJldHVybiAoCiAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmLmluZGV4T2YoJ29yY2EuYWR5bGljLmNvbScpID4gMCB8fAogICAgICB3aW5kb3cubG9jYXRpb24uaHJlZi5pbmRleE9mKCd0ZW1wbGF0ZS5hZHlsaWNvcmNhLmNvbScpID4gMCB8fAogICAgICB3aW5kb3cubG9jYXRpb24uaHJlZi5pbmRleE9mKCdzYXR1cm4uYWR5bGljLmNvbScpID4gMAogICAgKTsKICB9CgogIGZ1bmN0aW9uIGRldkxvZyhtZXNzYWdlKSB7CiAgICBpZiAoaXNEZXZFbnYoKSkgY29uc29sZS5sb2cobWVzc2FnZSk7CiAgfQoKICBmdW5jdGlvbiBhZGRDbGlja291dChjYWxsYmFjaykgewogICAgZGFjLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgY2FsbGJhY2spOwogIH0KCiAgZnVuY3Rpb24gZGV2Q2xpY2tvdXQoKSB7CiAgICBjb25zb2xlLmxvZygnQ2xpY2tvdXQgd29ya3MnKTsKICB9CgogIGZ1bmN0aW9uIGFkZEdzYXAoKSB7CiAgICBsZXQgczEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgIC8vIFVwZGF0ZSBzcmMgdG8gbGF0ZXN0IHZlcnNpb24gb2YgdmVuZG9yIHNwZWNpZmljIEdTQVAgQ0ROOiBpLmUuIERvdWJsZWNsaWNrLCBTaXptZWsKICAgIHMxLnNldEF0dHJpYnV0ZSgKICAgICAgJ3NyYycsCiAgICAgICdodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9nc2FwLzMuNC4yL2dzYXAubWluLmpzJwogICAgKTsKICAgIGRlZmluZSA9IG51bGw7CiAgICBkYWMuYXBwZW5kQ2hpbGQoczEpOwogIH0KCiAgZnVuY3Rpb24gY2hlY2tGb3JHc2FwKGNhbGxiYWNrKSB7CiAgICBsZXQgREVBRExJTkVfTVMgPSAxMDAwMDsKICAgIGxldCBSRVRSWV9NUyA9IDEwMDsKICAgIGxldCBpbnRlcnZhbDsKCiAgICBsZXQgdGltZW91dCA9IHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgZGV2TG9nKCdHU0FQIGZhaWxlZCB0byBsb2FkIGFmdGVyICcgKyBERUFETElORV9NUyAvIDEwMDAgKyAnIHNlY29uZChzKS4nKTsKICAgIH0sIERFQURMSU5FX01TKTsKCiAgICB0cnkgewogICAgICBpZiAoZ3NhcCkgewogICAgICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsKICAgICAgICBjYWxsYmFjaygpOwogICAgICB9CiAgICB9IGNhdGNoIHsKICAgICAgZGV2TG9nKCdJbml0aWFsIEdTQVAgbG9hZCBmYWlsZWQuIFRyeWluZyBhZ2Fpbi4nKTsKICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCgoKSA9PiB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIGlmIChnc2FwKSB7CiAgICAgICAgICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIGNhbGxiYWNrKCk7CiAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCB7fQogICAgICB9LCBSRVRSWV9NUyk7CiAgICB9CiAgfQoKICBmdW5jdGlvbiBpbml0R2xvYmFsQW5pbWF0aW9ucygpIHsKICAgIGxldCBnbG9iYWxUbCA9IGdzYXAudGltZWxpbmUoKTsKICAgIC8vIFlvdXIgZ2xvYmFsIEdTQVAgYW5pbWF0aW9ucyBnbyBoZXJlCiAgfQp9KSgpOwo="
+    },
+    {
+      "t": "e",
+      "c": "devGuide",
+      "s": "opacity:$devoveropacity;visibility:$devoveronoff;",
+      "h": "<img src='$devGuide'>"
+    }
+  ],
+  "config": [
+    {
+      "target": "$devGuide",
+      "name": "Development Overlay",
+      "type": "file",
+      "groupName": "Development Overlay",
+      "groupType": "image",
+      "initialValue": "https://s0.2mdn.net/creatives/assets/1951882/transparent.png"
+    },
+    {
+      "target": "$devoveronoff",
+      "name": "On/Off",
+      "type": "radio",
+      "groupName": "Development Overlay",
+      "groupType": "select",
+      "initialValue": "hidden",
+      "properties": {
+        "value": "hidden"
+      },
+      "options": ["visible", "hidden"],
+      "labels": ["On", "Off"]
+    },
+    {
+      "target": "$devoveropacity",
+      "name": "Opacity",
+      "type": "number",
+      "groupName": "Development Overlay",
+      "groupType": "number",
+      "initialValue": 0.5,
+      "properties": {
+        "min": 0.1,
+        "max": 1.0,
+        "step": 0.1,
+        "value": 0.5
+      }
+    }
+  ]
+}
