@@ -6,11 +6,15 @@
     },
     {
       "t": "s",
-      "s": ".dynamicAdvertContainer{cursor:pointer;line-height:1;width:300px;height:600px}.template-set-frame{position:absolute;top:0;left:0;width:100%;height:100%}.devGuide{width:100%;height:100%;position:absolute;top:0;left:0;z-index:999;display:none}.devGuide.dev{opacity:$devoveropacity !important;display:block !important}@font-face{font-family:Nissan-Brand-Bold;src:url(https://s0.2mdn.net/creatives/assets/4152089/NissanBrand-Bold.woff) format('woff');font-weight:bold}@font-face{font-family:Nissan-Brand-Light;src:url(https://s0.2mdn.net/creatives/assets/4152089/NissanBrand-Light.woff) format('woff')}img{width:100%}.backGround{width:300px;height:600px;background-image:linear-gradient($gradientColor,transparent)}.absolutePos{position:absolute}.logo{top:18px;left:150px;width:88px;height:75px;transform:translateX(-50%)}.heading,.headingSub{left:18px;width:260px;text-align:center}.heading{top:97px;height:34px;font-family:$headlineWeight1;font-size:$headlineSize1px;letter-spacing:1.145px;color:$headlineColor1}.headingSub{top:136px;height:44px;font-family:$headlineWeight2;font-size:$headlineSize2px;color:$headlineColor2}.cta{top:487px;left:39.5px;height:42px;padding:4px 60px 10px;background-color:#c40030;font-size:19.196px;display:flex;justify-content:center;align-items:center;gap:10px}.terms{top:550px;left:24px;width:252px;font-size:6.945px;text-align:justify;color:#fff}.cta,.terms{font-family:Nissan-Brand-Light}"
+      "s": ".dynamicAdvertContainer{cursor:pointer;line-height:1;width:300px;height:600px}.template-set-frame{position:absolute;top:0;left:0;width:100%;height:100%}.devGuide{width:100%;height:100%;position:absolute;top:0;left:0;z-index:999;display:none}.devGuide.dev{opacity:$devoveropacity !important;display:block !important}@font-face{font-family:Nissan-Brand-Bold;src:url(https://s0.2mdn.net/creatives/assets/4152089/NissanBrand-Bold.woff) format('woff');font-weight:bold}@font-face{font-family:Nissan-Brand-Light;src:url(https://s0.2mdn.net/creatives/assets/4152089/NissanBrand-Light.woff) format('woff')}img{width:100%}.backGround{width:300px;height:600px;background-image:linear-gradient($gradientColor,transparent)}.absolutePos{position:absolute}.logo{top:18px;left:150px;width:88px;height:75px;transform:translateX(-50%)}.heading,.headingSub{width:260px;text-align:center}.heading{left:$headlineXPos1px;top:$headlineYPos1px;height:34px;font-family:$headlineWeight1;font-size:$headlineSize1px;letter-spacing:1.145px;color:$headlineColor1}.headingSub{left:$headlineXPos2px;top:$headlineYPos2px;height:44px;font-family:$headlineWeight2;font-size:$headlineSize2px;color:$headlineColor2}.cta{top:487px;left:39.5px;height:42px;padding:4px 60px 10px;background-color:#c40030;font-size:19.196px;display:flex;justify-content:center;align-items:center;gap:10px}.terms{top:550px;left:24px;width:252px;font-size:6.945px;text-align:justify;color:#fff}.cta,.terms{font-family:Nissan-Brand-Light}"
     },
     {
       "t": "j",
       "s": "KGZ1bmN0aW9uICgpIHsKICBsZXQgZGFjID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLmR5bmFtaWNBZHZlcnRDb250YWluZXInKTsKCiAgaWYgKGlzRGV2RW52KCkpIHsKICAgIGNvbnNvbGUubG9nKCdPbiBPcmNhJyk7CiAgICBhZGRDbGlja291dChkZXZDbGlja291dCk7CiAgICBhZGRHc2FwKCk7CiAgfSBlbHNlIHsKICAgIGFkZENsaWNrb3V0KGV4aXRDbGlja0hhbmRsZXIpOwogICAgLy8gZ3NhcCBzaG91bGQgYmUgYWRkZWQgaW4gc2hlbGwgaW4gbGl2ZSBlbnZpcm9ubWVudAogIH0KICBjaGVja0ZvckdzYXAoaW5pdEdsb2JhbEFuaW1hdGlvbnMpOwoKICBmdW5jdGlvbiBpc0RldkVudigpIHsKICAgIHJldHVybiAoCiAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmLmluZGV4T2YoJ29yY2EuYWR5bGljLmNvbScpID4gMCB8fAogICAgICB3aW5kb3cubG9jYXRpb24uaHJlZi5pbmRleE9mKCd0ZW1wbGF0ZS5hZHlsaWNvcmNhLmNvbScpID4gMCB8fAogICAgICB3aW5kb3cubG9jYXRpb24uaHJlZi5pbmRleE9mKCdzYXR1cm4uYWR5bGljLmNvbScpID4gMAogICAgKTsKICB9CgogIGZ1bmN0aW9uIGRldkxvZyhtZXNzYWdlKSB7CiAgICBpZiAoaXNEZXZFbnYoKSkgY29uc29sZS5sb2cobWVzc2FnZSk7CiAgfQoKICBmdW5jdGlvbiBhZGRDbGlja291dChjYWxsYmFjaykgewogICAgZGFjLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgY2FsbGJhY2spOwogIH0KCiAgZnVuY3Rpb24gZGV2Q2xpY2tvdXQoKSB7CiAgICBjb25zb2xlLmxvZygnQ2xpY2tvdXQgd29ya3MnKTsKICB9CgogIGZ1bmN0aW9uIGFkZEdzYXAoKSB7CiAgICBsZXQgczEgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgIC8vIFVwZGF0ZSBzcmMgdG8gbGF0ZXN0IHZlcnNpb24gb2YgdmVuZG9yIHNwZWNpZmljIEdTQVAgQ0ROOiBpLmUuIERvdWJsZWNsaWNrLCBTaXptZWsKICAgIHMxLnNldEF0dHJpYnV0ZSgKICAgICAgJ3NyYycsCiAgICAgICdodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9nc2FwLzMuNC4yL2dzYXAubWluLmpzJwogICAgKTsKICAgIGRlZmluZSA9IG51bGw7CiAgICBkYWMuYXBwZW5kQ2hpbGQoczEpOwogIH0KCiAgZnVuY3Rpb24gY2hlY2tGb3JHc2FwKGNhbGxiYWNrKSB7CiAgICBsZXQgREVBRExJTkVfTVMgPSAxMDAwMDsKICAgIGxldCBSRVRSWV9NUyA9IDEwMDsKICAgIGxldCBpbnRlcnZhbDsKCiAgICBsZXQgdGltZW91dCA9IHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgZGV2TG9nKCdHU0FQIGZhaWxlZCB0byBsb2FkIGFmdGVyICcgKyBERUFETElORV9NUyAvIDEwMDAgKyAnIHNlY29uZChzKS4nKTsKICAgIH0sIERFQURMSU5FX01TKTsKCiAgICB0cnkgewogICAgICBpZiAoZ3NhcCkgewogICAgICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsKICAgICAgICBjYWxsYmFjaygpOwogICAgICB9CiAgICB9IGNhdGNoIHsKICAgICAgZGV2TG9nKCdJbml0aWFsIEdTQVAgbG9hZCBmYWlsZWQuIFRyeWluZyBhZ2Fpbi4nKTsKICAgICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbCgoKSA9PiB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIGlmIChnc2FwKSB7CiAgICAgICAgICAgIGNsZWFyVGltZW91dCh0aW1lb3V0KTsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIGNhbGxiYWNrKCk7CiAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCB7fQogICAgICB9LCBSRVRSWV9NUyk7CiAgICB9CiAgfQoKICBmdW5jdGlvbiBpbml0R2xvYmFsQW5pbWF0aW9ucygpIHsKICAgIGxldCBnbG9iYWxUbCA9IGdzYXAudGltZWxpbmUoKTsKICAgIC8vIFlvdXIgZ2xvYmFsIEdTQVAgYW5pbWF0aW9ucyBnbyBoZXJlCiAgfQp9KSgpOwo="
+    },
+    {
+      "t": "j",
+      "s": "KGZ1bmN0aW9uICgpIHsKICAgICAgICAgIGNvbnN0IGNvcHlMVFIgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCIubHRyIik7CiAgICAgICAgICBjb25zdCBjb3B5UlRMID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiLnJ0bCIpOwoKICAgICAgICAgIAogICAgICAgICAgaWYgKGNvcHlMVFIubGVuZ3RoKSB7CiAgICAgICAgICAgIGNvcHlMVFIuZm9yRWFjaCgoZWxlbWVudCkgPT4gewogICAgICAgICAgICAgIGVsZW1lbnQuZGlyID0gJ2x0cicKICAgICAgICAgICAgfSkKICAgICAgICAgICAgCiAgICAgICAgfSBlbHNlIGlmIChjb3B5UlRMLmxlbmd0aCkgewogICAgICAgICAgICBjb3B5UlRMLmZvckVhY2goKGVsZW1lbnQpID0+IHsKICAgICAgICAgICAgICAgIGVsZW1lbnQuZGlyID0gJ3J0bCcKICAgICAgICAgICAgICB9KQogICAgICAgIH0KCgogICAgICB9KSgpOw=="
     },
     {
       "t": "e",
@@ -30,25 +34,25 @@
     },
     {
       "t": "e",
-      "c": "absolutePos heading",
+      "c": "absolutePos heading $copyDirection",
       "h": "$headlineCopy1",
       "s": "inline style"
     },
     {
       "t": "e",
-      "c": "absolutePos headingSub",
+      "c": "absolutePos headingSub $copyDirection",
       "h": "$headlineCopy2",
       "s": "inline style"
     },
     {
       "t": "e",
-      "c": "absolutePos cta",
+      "c": "absolutePos cta $copyDirection",
       "h": "shop now",
       "s": "inline style"
     },
     {
       "t": "e",
-      "c": "absolutePos terms",
+      "c": "absolutePos terms $copyDirection",
       "h": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
       "s": "inline style"
     }
@@ -88,6 +92,19 @@
         "step": 0.1,
         "value": 0.5
       }
+    },
+    {
+      "target": "$copyDirection",
+      "name": "copy direction",
+      "type": "radio",
+      "groupName": "Copy",
+      "groupType": "select",
+      "initialValue": "ltr",
+      "properties": {
+        "value": "ltr"
+      },
+      "options": ["ltr", "rtl"],
+      "labels": ["ltr", "rtl"]
     },
     {
       "target": "$gradientColor",
@@ -158,6 +175,34 @@
       "labels": ["normal", "bold"]
     },
     {
+      "target": "$headlineXPos1",
+      "name": "X position",
+      "type": "number",
+      "groupName": "Headline",
+      "groupType": "number",
+      "initialValue": 18,
+      "properties": {
+        "min": 0,
+        "max": 300,
+        "step": 1,
+        "value": 18
+      }
+    },
+    {
+      "target": "$headlineYPos1",
+      "name": "Y position",
+      "type": "number",
+      "groupName": "Headline",
+      "groupType": "number",
+      "initialValue": 97,
+      "properties": {
+        "min": 0,
+        "max": 600,
+        "step": 1,
+        "value": 97
+      }
+    },
+    {
       "target": "$headlineCopy2",
       "name": "Headline 2",
       "type": "text",
@@ -205,6 +250,34 @@
       },
       "options": ["Nissan-Brand-Light", "Nissan-Brand-Bold"],
       "labels": ["normal", "bold"]
+    },
+    {
+      "target": "$headlineXPos2",
+      "name": "X position",
+      "type": "number",
+      "groupName": "Headline",
+      "groupType": "number",
+      "initialValue": 18,
+      "properties": {
+        "min": 0,
+        "max": 300,
+        "step": 1,
+        "value": 18
+      }
+    },
+    {
+      "target": "$headlineYPos2",
+      "name": "Y position",
+      "type": "number",
+      "groupName": "Headline",
+      "groupType": "number",
+      "initialValue": 136,
+      "properties": {
+        "min": 0,
+        "max": 600,
+        "step": 1,
+        "value": 136
+      }
     }
   ]
 }
